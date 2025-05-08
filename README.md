@@ -2,7 +2,7 @@
 **Security, Compliance, and Trust Leader | CGRC, CISM, CCSK, CCSM, ITIL v3 Certified | Building Trust at GitHub | Learning to Code**
 
 ---
-[Check out my Professional organization GitHub account!](github.com/prisaubrey76)
+[Check out my Professional organization GitHub account!](https://github.com/prisaubrey76)
 ---
 ## 🧭 About Me
 
