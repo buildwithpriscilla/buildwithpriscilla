@@ -1,8 +1,9 @@
 
 **Security, Compliance, and Trust Leader | CGRC, CISM, CCSK, CCSM, ITIL v3 Certified | Building Trust at GitHub | Learning to Code**
-Professional github.com/prisaubrey76
----
 
+---
+[Check out my Professional organization GitHub account!](github.com/prisaubrey76)
+---
 ## 🧭 About Me
 
 I'm a seasoned professional with over 15 years of experience in security, compliance, and customer trust. Currently, I serve as a **Customer Security & Trust Architect at GitHub**, where I lead cross-functional programs that align customer assurance with product strategy—driving secure-by-design development, DORA readiness, and cloud transparency. I played a pivotal role in launching GitHub’s [Trust Center](https://trust.github.com) and continue to shape how we communicate trust at scale.
