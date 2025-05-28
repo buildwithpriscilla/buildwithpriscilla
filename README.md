@@ -1,5 +1,5 @@
 
-**Security, Compliance, and Trust Leader | CGRC, CISM, CCSK, CCSM, ITIL v3 Certified | Building Trust at GitHub | Learning to Code**
+**Security, Compliance, and Trust Leader | CGRC, CISM, CCSK, CCSM, ITIL v3 Certified | Building Trust at GitHub | Developer in Training**
 
 ---
 [Check out my Professional organization GitHub account!](https://github.com/prisaubrey76)
@@ -43,7 +43,7 @@ I'm passionate about:
 - **CCSM** (Certified Cloud Security Manager)
 - **ITIL v3** (Information Technology Infrastructure Library)
 
-With a strong background in frameworks like SOC 2, ISO 27001, GDPR, DORA, and APPI, I contribute to GitHub’s secure development and customer trust initiatives.
+With a strong background in frameworks like SOC 2, ISO 27001, GDPR, and DORA, I contribute to GitHub’s secure development and customer trust initiatives.
 
 ---
 
